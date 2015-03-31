@@ -1,0 +1,1051 @@
+!SESSION 2015-02-18 14:38:26.922 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product C:\Users\John\Downloads\EchoServerTest.java
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product C:\Users\John\Downloads\EchoServerTest.java
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-02-18 14:39:28.334
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-02-24 10:58:19.814 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-02-24 10:59:01.521
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-02-24 17:35:19.827 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-02-24 17:35:31.220
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-02-25 13:28:39.921 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-02-25 13:29:36.841
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-02-25 17:29:04.803 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-02-25 17:29:52.861
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-02-26 13:49:32.437 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-02-26 13:49:50.960
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-01 22:15:50.008 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-01 22:16:01.699
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-02 11:50:56.912 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-02 11:51:32.310
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-02 14:53:19.746 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-02 14:53:48.709
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-04 20:34:39.608 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-04 20:35:19.372
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-05 15:38:55.391 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-05 15:39:13.187
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-08 15:40:16.788 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-08 15:40:30.845
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 15:43:34.908
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 15:43:54.842
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 15:44:48.782
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 15:44:51.987
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 15:59:09.215
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:00:04.926
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:01:02.627
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:01:51.471
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:01:55.221
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:03:01.507
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:03:30.491
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:03:55.929
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:03:58.310
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:04:01.707
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:04:09.718
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:04:47.398
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:04:51.651
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:04:52.791
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:04:54.124
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:07:04.072
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:07:24.190
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:07:29.339
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:07:46.771
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:07:47.849
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:09:17.775
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:09:32.758
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:09:39.584
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:09:42.767
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:11:11.486
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:11:13.880
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:12:21.502
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:12:24.395
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:12:26.015
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:12:29.379
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:13:27.998
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:15:36.435
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:18:52.404
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:19:05.063
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:19:21.061
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:20:36.479
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:22:12.424
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:22:21.174
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:22:37.842
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:23:28.514
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:24:05.797
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:24:17.288
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:24:30.017
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:24:32.758
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:24:34.391
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:25:55.560
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:25:56.987
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:26:00.002
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:26:39.348
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:27:12.474
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:29:24.589
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:32:14.915
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:33:28.432
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:33:30.953
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:34:44.675
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:35:08.390
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:36:04.024
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:36:23.562
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:36:32.764
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:36:43.429
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:36:51.199
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:40:45.106
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:43:42.831
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:44:00.274
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:45:45.184
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:46:54.273
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:47:06.821
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:47:42.280
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:49:04.182
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:49:33.983
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 16:51:54.350
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:02:01.767
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:02:02.804
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:02:27.148
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:02:27.930
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:05:51.921
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:06:22.272
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:06:52.590
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:07:01.807
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:08:38.465
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:10:53.004
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:13:38.317
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:17:31.384
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:17:44.373
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:21:44.882
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:22:02.446
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:22:05.654
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:22:16.557
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:22:31.436
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:25:25.672
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:27:58.931
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:28:41.332
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:29:29.056
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:29:34.174
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:30:25.699
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:32:28.231
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:32:59.539
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:33:41.218
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:33:43.792
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:34:19.115
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:34:19.803
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:34:49.641
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:34:50.895
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:36:12.093
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:36:14.696
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:37:57.100
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:38:05.897
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:38:07.360
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:42:36.326
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:42:57.141
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:47:21.094
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:52:21.135
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:52:54.515
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:57:54.555
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:58:39.279
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:58:57.034
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:59:37.778
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:59:53.052
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 17:59:59.177
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:00:32.191
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:00:34.784
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:00:36.071
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:00:39.619
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:01:39.314
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:02:45.374
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:02:48.139
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:02:49.263
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:02:50.623
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:02:51.791
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:02:52.811
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:03:39.271
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:03:53.469
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:04:16.650
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:04:17.971
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:04:19.076
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:04:24.896
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:04:45.130
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:04:45.900
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:04:46.200
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:05:16.971
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:05:39.119
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:06:39.178
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:06:46.258
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:07:10.317
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:07:13.236
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:08:01.957
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:10:03.015
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:11:00.948
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:12:59.542
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:18:06.460
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:19:15.128
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:19:24.880
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:19:34.658
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:20:04.532
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:20:24.285
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-08 18:20:47.918
+!MESSAGE Unable to load default SVN Client
+!SESSION 2015-03-10 18:04:43.891 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-10 18:05:22.118
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:05:49.641
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:06:16.177
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:07:39.380
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:07:52.776
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:10:00.810
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:10:51.183
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:12:33.796
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:15:14.059
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:15:24.352
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:15:37.375
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:17:34.585
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:19:28.818
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:24:41.707
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:24:43.750
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:28:29.379
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:29:10.423
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:30:37.776
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:31:02.136
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:31:09.293
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:31:09.489
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:32:39.653
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:36:52.215
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:38:22.508
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:39:20.690
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:39:28.918
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:44:22.333
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:48:10.496
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:50:39.183
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:52:40.059
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:52:43.505
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:53:22.320
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:54:14.231
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:55:44.504
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:56:09.244
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 18:56:18.509
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:08:26.581
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:08:47.080
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:09:50.769
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:12:33.620
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:15:34.191
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:16:57.793
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:31:20.205
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:34:42.180
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:35:13.675
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:36:15.092
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:40:57.939
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-10 19:43:29.886
+!MESSAGE Unable to load default SVN Client
+!SESSION 2015-03-15 15:20:09.823 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-15 15:20:34.087
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-15 15:20:34.105
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-15 15:46:29.278
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-15 15:47:40.495
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-15 15:47:51.863
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-15 15:54:29.313
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-15 15:54:40.671
+!MESSAGE Unable to load default SVN Client
+!SESSION 2015-03-15 19:39:37.433 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-15 19:40:00.384
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-15 19:40:00.386
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-15 23:27:32.007 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-15 23:27:52.669
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-15 23:27:52.687
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-15 23:58:40.364
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-15 23:59:17.733
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-15 23:59:45.070
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:00:01.309
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:07:01.308
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:08:54.979
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:09:04.348
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:14:47.391
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:15:03.967
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:17:56.030
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:18:12.591
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:18:31.268
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:22:07.913
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:24:25.567
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:24:44.034
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:28:01.825
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:32:20.885
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:33:52.421
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:35:22.499
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:36:51.669
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:36:58.334
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:38:11.847
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:40:36.857
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:40:40.336
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:40:53.583
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:42:52.478
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:44:07.644
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:49:35.850
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:50:29.631
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:51:48.170
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:54:21.454
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:57:36.270
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:57:47.476
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:58:25.994
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:59:12.851
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 00:59:59.949
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 01:00:20.906
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 01:00:24.071
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 01:01:09.638
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 01:01:35.121
+!MESSAGE Unable to load default SVN Client
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2015-03-16 01:05:53.861
+!MESSAGE Unable to load default SVN Client
+!SESSION 2015-03-16 11:20:04.547 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-16 11:20:37.993
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-16 11:20:38.025
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-03-31 10:31:16.759 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-31 10:31:55.343
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-03-31 10:31:55.366
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\John'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
